@@ -18,3 +18,6 @@
 
 # Credits
 [Igor igkuzm Semetsov](https://github.com/igkuzm) - Fix outdated client error
+IOvanQ - provided a remote PC for building and testing
+Special Thanks to:
+[Kak_dela_kak_pogoda](t.me/Kak_dela_kak_pogoda)
