@@ -15,3 +15,6 @@
   git submodule update
   ```  
 5. Open Telegram.xcworkspace inside laterGram folder with xcode. Use Xcode 10 and macOS installed on MacOS Extended partition.
+
+# Credits
+[Igor igkuzm Semetsov](https://github.com/igkuzm) - Fix
